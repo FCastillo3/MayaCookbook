@@ -1,0 +1,6 @@
+global proc myMELScript()
+{
+    polyCube;
+    print("Hello from MEL!");
+}
+    
